@@ -51,6 +51,10 @@ body {
     margin-left: 10px;
 }
 
+.menu a:hover{
+    color: lightgray;
+}
+
 .mainnews {
     margin-top: 20px;
     background-color: #A0D5D6;
